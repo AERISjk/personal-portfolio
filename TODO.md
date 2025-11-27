@@ -1,0 +1,3 @@
+- [ ] Update Service component padding to match Contact component
+- [ ] Update LatestWork component padding to match Contact component
+- [ ] Update Project component padding to match Contact component
