@@ -80,7 +80,7 @@ const Footer = () => {
                   <Link href="/about">About Me</Link>
                 </li>
                 <li className="text-xl font-medium">
-                  <Link href="/services">Services</Link>
+                  <Link href="/provide">Services</Link>
                 </li>
                 <li className="text-xl font-medium">
                   <Link href="/contact">Contact</Link>
