@@ -19,7 +19,7 @@ import React, {
 ============================================================ */
 
 interface CarouselProps {
-  items: JSX.Element[];
+  items: React.ReactNode[];
 }
 
 type CardType = {

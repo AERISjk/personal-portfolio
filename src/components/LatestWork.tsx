@@ -20,7 +20,7 @@ const figmaLink4 =
   "https://www.figma.com/design/aMu4L9Y2azFbheKqNXPtFr/AURURA-EARBUDS?node-id=166-2316&t=gBUSUozyjHjdj0t3-1";
 const figmaLink5 =
   "https://www.figma.com/design/fRWN6QLrJakgvWLe7FRj04/Explorify-App?node-id=0-1&t=L4iwTTi9t6DJ7dYp-1";
-const DummyContent: React.FC = () => {
+const DummyContent = () => {
   return (
     <>
       {Array.from({ length: 3 }).map((_, index) => (
