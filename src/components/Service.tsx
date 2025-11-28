@@ -50,7 +50,7 @@ const projects = [
   },
 ];
 
-export default function ServiceSection(): JSX.Element {
+export default function ServiceSection(){
   const container = useRef(null);
   const heroRef = useRef<HTMLDivElement>(null);
 
